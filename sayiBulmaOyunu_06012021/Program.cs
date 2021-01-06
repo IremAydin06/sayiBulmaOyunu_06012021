@@ -50,6 +50,5 @@ namespace sayiBulmaOyunu_06012021
                 }
             }
         }
-
     }
 }
