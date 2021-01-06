@@ -39,7 +39,7 @@ namespace sayiBulmaOyunu_06012021
                             break;
                         else
                         {
-                            Console.WriteLine("Hatalı giriş lütfen tekrar deneyiniz!");
+                            Console.WriteLine("Hatalı giriş yaptınız. Lütfen tekrar deneyiniz!");
                         }
                     }
                     //Kullanıcı istenilen şekilde girdi girmişse while döngüsünden çıkılıp verilen cevap kontrol edildi.
